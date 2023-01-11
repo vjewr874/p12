@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="proguadlib" type="BatchConfigurationType" factoryName="Batch" singleton="false">
+    <module name="iosinstall.store" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="WORKING_DIRECTORY" value="./doc" />
+    <option name="PARENT_ENVS" value="true" />
+    <option name="SCRIPT_NAME" value="proguadlib.bat" />
+    <option name="PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
